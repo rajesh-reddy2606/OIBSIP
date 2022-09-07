@@ -1,0 +1,57 @@
+*{
+    width: 100%;
+}
+
+h1{
+    padding: 20px;
+    background-color: gray;
+    color: white;
+    border: black 5px solid;
+    text-decoration: overline black;
+}
+.main{
+    background-color: rgb(210, 179, 240);
+    
+}
+h3{
+    padding-left: 40px;
+    padding-top: 40px;
+}
+p{
+    padding-left: 40px;
+    padding-bottom: 40px;
+    padding-right: 40px;
+}
+.schedule{
+    background-color: rgb(198, 242, 170);
+}
+.box{
+    margin: 40px;
+    width: 20%;
+    background-color: rgb(138, 239, 239);
+    height: 40px;
+    text-align: center;
+    transform: translateY();
+}
+.marquee{
+    margin-top: 20px;
+}
+.image{
+    margin: 10px;
+    height: 400px;
+    width: 800px;
+}
+.result{
+    margin: 20px;
+}
+img{
+    height: 150px;
+    width: 350px;
+}
+.footer{
+    background-color: rgb(147, 107, 138);
+}
+.copyright{
+    background-color: black;
+    color: white;
+}
